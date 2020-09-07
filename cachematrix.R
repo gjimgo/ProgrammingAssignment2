@@ -1,7 +1,7 @@
 ## Put comments here that give an overall description of what your
 ## functions do
 
-## akeCacheMatrix function creates a special “matrix” object
+## MakeCacheMatrix function creates a special “matrix” object
 
 makeCacheMatrix <- function(x = matrix()) {
         i <- NULL
